@@ -1,24 +1,25 @@
-## Hi there 👋
 
-<!--
-**eastVirusDa/eastVirusDa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills
 
-Here are some ideas to get you started:
+**Backend**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!--타이틀 부분-->
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=eastVirusDa&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/eastVirusDa"
-  width="600"
-  height="300"
-/>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge\&logo=spring\&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
+
+**Database / Infra**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge\&logo=oracle\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+
+
+## Github Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=dyahxhx&show_icons=true&theme=transparent" height="165"/>
+<a href="https://github.com/dyahxhx">
+  <img src="https://render.gitanimals.org/farms/dyahxhx" width="350" height="165"/>
 </a>
+
+</p>
