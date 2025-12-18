@@ -23,3 +23,5 @@
 </a>
 
 </p>
+
+![mmingoo GitHub 언어 통계](https://github-readme-stats.vercel.app/api/top-langs/?username=eastVirusDa&layout=compact&theme=radical)
